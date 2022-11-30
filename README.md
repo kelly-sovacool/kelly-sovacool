@@ -1,4 +1,4 @@
-### Hi there 👋
+### Kelly Sovacool
 
 <!--
 **kelly-sovacool/kelly-sovacool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Kelly! I'm a bioinformatician building open source tools for microbiome research, and contributing to data science education along the way.
+Take a look at my personal website for more information about me: <https://sovacool.dev>
+
+#### GitHub Metrics
+
+[![metrics](github-metrics.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
