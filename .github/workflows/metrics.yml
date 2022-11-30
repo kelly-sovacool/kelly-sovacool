@@ -19,7 +19,7 @@ jobs:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Detroit
-          base: [header, activity, community, repositories, metadata]
+          base: header, activity, community, repositories, metadata
           base_indepth: yes
           repositories: 150
       - name: Languages
