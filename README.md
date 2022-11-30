@@ -2,7 +2,7 @@
 
 Hi, I'm Kelly! I'm a bioinformatician building open source tools for microbiome research, and contributing to data science education along the way.
 
-- Personal website: <https://sovacool.dev>
+**Personal website**: <https://sovacool.dev>
 
 #### GitHub Metrics
 
