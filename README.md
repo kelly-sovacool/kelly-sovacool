@@ -21,3 +21,7 @@ Take a look at my personal website for more information about me: <https://sovac
 #### GitHub Metrics
 
 [![metrics](github-metrics.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
+
+![languages](metrics.plugin.languages.indepth.svg)
+
+![notable contributions](metrics.plugin.notable.indepth.svg)
