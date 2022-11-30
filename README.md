@@ -6,11 +6,8 @@ Hi, I'm Kelly! I'm a bioinformatician building open source tools for microbiome 
 
 #### GitHub Metrics
 
-[
-    ![metrics](github-metrics.svg)
+[![metrics](github-metrics.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
 
-    ![languages](metrics.plugin.languages.svg)
+[![languages](metrics.plugin.languages.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
 
-    ![notable contributions](metrics.plugin.notable.svg)
-
-](https://metrics.lecoq.io/insights/kelly-sovacool)
+[![notable contributions](metrics.plugin.notable.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
