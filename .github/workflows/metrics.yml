@@ -1,8 +1,12 @@
 name: Metrics
+
 on:
   schedule: [{cron: "0 0 * * 1"}] # weekly updates
-  workflow_dispatch: # (optional) Run workflow manually
-  push: {branches: ["main"]} # on push to main
+  workflow_dispatch: # manual update
+  push: # when workflow file changes
+    paths:
+      - .github/workflows/metrics.yml
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
