@@ -12,4 +12,4 @@ Hi, I'm Kelly! I'm a bioinformatician building open source tools for microbiome 
 
 [![notable contributions](metrics.plugin.notable.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
 
-<link rel="me" href="https://mastodon.social/@kelly_sovacool"></link>
+<link rel="me" href="https://mastodon.social/@kelly_sovacool">
