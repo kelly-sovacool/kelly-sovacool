@@ -1,6 +1,6 @@
 ### Kelly Sovacool
 
-Hi, I'm Kelly! I'm a bioinformatician building and deploying software workflows with [Frederick National Lab](https://frederick.cancer.gov) on the @CCBR team.
+Hi, I'm Kelly! I'm a bioinformatician building and deploying software workflows with [Frederick National Lab](https://frederick.cancer.gov) on the [CCBR](https://github.com/ccbr) team.
 
 #### Personal website: <https://sovacool.dev>
 
