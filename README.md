@@ -1,6 +1,6 @@
 ### Kelly Sovacool
 
-Hi, I'm Kelly! I'm a bioinformatician building open source tools for microbiome research, and contributing to data science education along the way.
+Hi, I'm Kelly! I'm a bioinformatician building and deploying software workflows with [Frederick National Lab](https://frederick.cancer.gov) on the @CCBR team.
 
 #### Personal website: <https://sovacool.dev>
 
