@@ -1,6 +1,6 @@
 ### Kelly Sovacool
 
-Hi, I'm Kelly! I'm a bioinformatician building and deploying software with the [Frederick National Laboratory for Cancer Research](https://frederick.cancer.gov) on the [CCBR](https://github.com/ccbr) core team. You can learn more about me at my [personal website](https://sovacool.dev).
+Hi, I'm Kelly! I'm a bioinformatician building and deploying open source software with the [Frederick National Laboratory for Cancer Research](https://frederick.cancer.gov) on the [CCBR](https://github.com/ccbr) core team. You can learn more about me at my [personal website](https://sovacool.dev).
 
 #### GitHub Metrics
 
