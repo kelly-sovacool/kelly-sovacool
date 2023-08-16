@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           user: kelly-sovacool
-          commits_authoring: Kelly Sovacool, kelly-sovacool, kelly-sovacool@users.noreply.github.com, kelly-sovacool@nih.gov
+          commits_authoring: Kelly Sovacool, kelly-sovacool, kelly-sovacool@users.noreply.github.com
           plugin_languages: yes # languages
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
