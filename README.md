@@ -11,3 +11,5 @@ Hi, I'm Kelly! I'm a bioinformatician developing and maintaining open source sof
 [![notable contributions](metrics.plugin.notable.svg)](https://metrics.lecoq.io/insights/kelly-sovacool)
 
 <link rel="me" href="https://mastodon.social/@kelly_sovacool">
+
+[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@kelly-sovacool)](https://joss.theoj.org/papers/reviewed_by/@kelly-sovacool)
