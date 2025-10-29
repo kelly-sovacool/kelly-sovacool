@@ -14,7 +14,7 @@ jobs:
       contents: write
     steps:
       - name: Base
-        uses: oddstr13/github-profile-metrics@7b9f6613a2cdd3f8f8f61c4e28a5c4eeb32e0f7e
+        uses: oddstr13/github-profile-metrics@b79aff3dcef1c90b518d92eb029d2c8942c3337d
         with:
           use_prebuilt_image: no
           filename: github-metrics.svg
@@ -25,7 +25,7 @@ jobs:
           repositories: 200
           user: kelly-sovacool
       - name: Languages
-        uses: oddstr13/github-profile-metrics@7b9f6613a2cdd3f8f8f61c4e28a5c4eeb32e0f7e
+        uses: oddstr13/github-profile-metrics@b79aff3dcef1c90b518d92eb029d2c8942c3337d
         with:
           use_prebuilt_image: no
           filename: metrics.plugin.languages.svg
@@ -45,7 +45,7 @@ jobs:
           plugin_languages_aliases: RenderScript:Rust, rebol:R, GLSL:JavaScript
           #plugin_languages_threshold: 2%
       - name: Contributions
-        uses: oddstr13/github-profile-metrics@7b9f6613a2cdd3f8f8f61c4e28a5c4eeb32e0f7e
+        uses: oddstr13/github-profile-metrics@b79aff3dcef1c90b518d92eb029d2c8942c3337d
         with:
           use_prebuilt_image: no
           filename: metrics.plugin.notable.svg
