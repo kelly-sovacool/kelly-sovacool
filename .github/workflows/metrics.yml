@@ -14,8 +14,9 @@ jobs:
       contents: write
     steps:
       - name: Base
-        uses: lowlighter/metrics@latest
+        uses: oddstr13/github-profile-metrics@7b9f6613a2cdd3f8f8f61c4e28a5c4eeb32e0f7e
         with:
+          use_prebuilt_image: no
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Detroit
@@ -24,8 +25,9 @@ jobs:
           repositories: 200
           user: kelly-sovacool
       - name: Languages
-        uses: lowlighter/metrics@latest
+        uses: oddstr13/github-profile-metrics@7b9f6613a2cdd3f8f8f61c4e28a5c4eeb32e0f7e
         with:
+          use_prebuilt_image: no
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -43,8 +45,9 @@ jobs:
           plugin_languages_aliases: RenderScript:Rust, rebol:R, GLSL:JavaScript
           #plugin_languages_threshold: 2%
       - name: Contributions
-        uses: lowlighter/metrics@latest
+        uses: oddstr13/github-profile-metrics@7b9f6613a2cdd3f8f8f61c4e28a5c4eeb32e0f7e
         with:
+          use_prebuilt_image: no
           filename: metrics.plugin.notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
